@@ -11,7 +11,7 @@ var END = 0;
 var gameState = PLAY;
 
 var restart,restartimg,gOver,gOverimg;
-
+var sound1,sound2,sound3;
 
 function preload(){
   trex_running = loadAnimation("trex1.png","trex3.png","trex4.png");
