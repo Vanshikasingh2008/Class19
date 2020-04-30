@@ -30,6 +30,8 @@ function preload(){
   
   restartimg = loadImage("restart.png");
   gOverimg = loadImage("gameOver.png");
+  
+  sound1 = loadSound("
 }
 
 function setup() {
