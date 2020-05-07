@@ -70,7 +70,7 @@ function draw() {
   
   text("Score: "+ score, 500,50);
   
-  if(count%100 === 0 && count>0 ){
+  if(score%100 === 0 && score>0 ){
   sound1.play();
   }
   
